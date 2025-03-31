@@ -1,6 +1,11 @@
 # Power BI Car Sales Dashboard
 I've created this PowerBI Car Sales Dashboard that provides insights on sales performance, trends, and customer preferences. It tracks revenue, profitability, and best-selling models while integrating exchange rates for accurate reporting. Interactive filters enable users to analyze sales across time and locations, supporting data-driven decisions. I have utilized advanced DAX functions, interactive slicers, and navigation buttons. It enables users to analyze key performance indicators (KPIs), track sales trends, and explore data through interactive charts and tables for informed decision-making.
 
+![image](https://github.com/user-attachments/assets/fe087487-f15f-462c-8ef1-c4d1f63b948f)
+
+![Details Page](https://github.com/user-attachments/assets/eb0c5c58-a91c-4f3c-9a69-a07a184c9a8a)
+
+
 # Key Features
 
 **Interactive Navigation:** Page navigation buttons for a seamless user experience
