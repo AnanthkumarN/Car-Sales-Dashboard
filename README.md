@@ -60,6 +60,17 @@ YTD Total Sales by Color (Pie Chart - Contribution by Car Colors)
 
 YTD Cars Sold by Dealer Region (Map Chart - Geographic Sales Distribution)
 
+# Features
+
+**Interactive Dashboard** – Page navigation, slicers, filters and interactive charts with active interconnections for easy data exploration.
+
+**Advanced DAX Calculations** – Utilized functions to derive KPIs.
+
+**Data-Driven Insights** – Helps in understanding sales performance trends and patterns.
+
+**Visual Representation** – Multiple chart types for intuitive understanding.
+
+
 Company-Wise Sales Trend (Grid Table - Company & Sales Figures)
 
 # Conclusion
